@@ -37,5 +37,8 @@ This Python script allows you to input any **FEN (Forsyth–Edwards Notation)** 
 - Go to Stockfish Downloads
 - Download the version for your OS
 - Extract it and note the path to the executable file
-
+## ⚙️ Configuration
+Open the script and modify the following line to match your Stockfish path:
+- stockfish_path = "C:/Program Files/stockfish/stockfish-windows-x86-64-avx2.exe"
+Make sure the path is correct and points to the stockfish executable.
    
