@@ -27,7 +27,7 @@ This Python script allows you to input any **FEN (Forsyth–Edwards Notation)** 
 1. **Download or clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chess-best-move-finder.git
+   git clone https://github.com/amirmahdimon/chess-bot.git
    cd chess-best-m
 
 2. **Install dependencies:**
