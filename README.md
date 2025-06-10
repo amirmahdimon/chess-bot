@@ -41,4 +41,29 @@ This Python script allows you to input any **FEN (Forsyth–Edwards Notation)** 
 Open the script and modify the following line to match your Stockfish path:
 - stockfish_path = "C:/Program Files/stockfish/stockfish-windows-x86-64-avx2.exe"
 Make sure the path is correct and points to the stockfish executable.
-   
+
+## 🧠 How to Use
+Run the script:
+- python best_move_finder.py
+You'll see: 
+Welcome! Paste a FEN string below to get the best move.
+Type 'exit' to quit.
+Example input:
+
+Enter FEN: r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4
+Output: 
+Best move: O-O (UCI format: e1g1)
+
+## ❌ Exiting
+To exit the program at any time, simply type:
+
+## 📝 Notes
+The script uses a 1-second limit for Stockfish to calculate the best move.
+
+Invalid FEN strings will show a warning and prompt you again.
+
+🧑‍💻 Author
+Created by Amirmahdimon(Monty)
+Feel free to contribute, report issues, or suggest improvements!
+
+
