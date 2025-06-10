@@ -55,7 +55,7 @@ Output:
 Best move: O-O (UCI format: e1g1)
 
 ## ❌ Exiting
-To exit the program at any time, simply type:
+To exit the program at any time, simply type: exit
 
 ## 📝 Notes
 The script uses a 1-second limit for Stockfish to calculate the best move.
