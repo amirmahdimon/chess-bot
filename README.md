@@ -29,3 +29,13 @@ This Python script allows you to input any **FEN (Forsyth–Edwards Notation)** 
    ```bash
    git clone https://github.com/yourusername/chess-best-move-finder.git
    cd chess-best-m
+
+2. **Install dependencies:**
+   ```bash
+   pip install chess
+3. **Download and install Stockfish:**
+-- Go to Stockfish Downloads
+-- Download the version for your OS
+-- Extract it and note the path to the executable file
+
+   
