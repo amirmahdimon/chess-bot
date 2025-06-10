@@ -34,8 +34,8 @@ This Python script allows you to input any **FEN (Forsyth–Edwards Notation)** 
    ```bash
    pip install chess
 3. **Download and install Stockfish:**
--- Go to Stockfish Downloads
--- Download the version for your OS
--- Extract it and note the path to the executable file
+- Go to Stockfish Downloads
+- Download the version for your OS
+- Extract it and note the path to the executable file
 
    
