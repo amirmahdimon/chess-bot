@@ -45,7 +45,7 @@ Make sure the path is correct and points to the stockfish executable.
 ## 🧠 How to Use
 Run the script:
 - python best_move_finder.py
-You'll see: 
+- You'll see: 
 Welcome! Paste a FEN string below to get the best move.
 Type 'exit' to quit.
 Example input:
